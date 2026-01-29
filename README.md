@@ -96,4 +96,4 @@ npm run dev
 
 ## Details
 
-<!-- Optional: Add anything else you want to share about your project -->
+Add anything else you want to share: architecture diagrams, screenshots, challenges faced, future plans, etc.
