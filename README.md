@@ -44,13 +44,15 @@ Which sponsor tools did you use and how?
 - [ ] **v0** —
 - [ ] **OpenAI** —
 - [ ] **Google Gemini** —
+- [ ] **Google Nano Banana** —
+- [ ] **Google Antigravity** —
 - [ ] **MiniMax** —
 - [ ] **Hume AI** —
 - [ ] **ElevenLabs** —
 - [ ] **Runway** —
 - [ ] **n8n** —
 - [ ] **Manus** —
-- [ ] **LangChain / LangGraph / LangSmith** —
+- [ ] **LangChain** —
 - [ ] **Miro** —
 
 ## Tech Stack
