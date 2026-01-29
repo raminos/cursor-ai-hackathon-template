@@ -1,4 +1,4 @@
-# AI Hackathon Hamburg — Repo Template
+# Cursor 2-Day AI Hackathon — Repo Template
 
 **How to use this template:**
 1. Click "Use this template" → "Create a new repository"
