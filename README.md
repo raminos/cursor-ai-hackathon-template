@@ -61,13 +61,11 @@ What technologies power your project?
 
 <!-- List your main technologies, frameworks, and services -->
 
-| Layer | Technology |
-|-------|------------|
-| Frontend | e.g., Next.js, React, Tailwind |
-| Backend | e.g., Node.js, Python, FastAPI |
-| Database | e.g., Supabase, Firebase, PostgreSQL |
-| AI/ML | e.g., OpenAI GPT-4, Gemini Pro |
-| Hosting | e.g., Vercel, Railway |
+- **Frontend**: e.g., Next.js, React, Tailwind
+- **Backend**: e.g., Node.js, Python, FastAPI
+- **Database**: e.g., Supabase, Firebase, PostgreSQL
+- **AI/ML**: e.g., OpenAI GPT-4, Gemini Pro
+- **Hosting**: e.g., Vercel, Railway
 
 ## How to Run
 
