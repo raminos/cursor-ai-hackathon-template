@@ -1,5 +1,7 @@
 # Cursor 2-Day AI Hackathon — Repo Template
 
+![Cursor 2-Day AI Hackathon](https://ai-beavers.com/_next/image?url=%2Fimages%2Fhackathon-hero-20012026.png&w=1920&q=75)
+
 **How to use this template:**
 1. Click "Use this template" → "Create a new repository"
 2. Name your repo and set it to **Public**
