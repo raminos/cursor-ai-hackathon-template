@@ -94,8 +94,6 @@ npm run dev
 | `OPENAI_API_KEY` | Your OpenAI API key |
 | `DATABASE_URL` | Database connection string |
 
-## Screenshots
+## Details
 
-<!-- Optional: Add screenshots or GIFs of your project -->
-
-![Screenshot description](screenshot.png)
+<!-- Optional: Add anything else you want to share about your project -->
