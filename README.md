@@ -31,7 +31,6 @@ What problem are you solving and for whom? What's your solution?
 
 | Type | Link |
 |------|------|
-| Live Demo | [link](https://your-demo-url.com) |
 | Video | [YouTube](https://youtube.com/watch?v=xxx) |
 | Pitch Deck | [Miro](https://miro.com/app/board/xxx) |
 
