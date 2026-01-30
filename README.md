@@ -13,48 +13,6 @@
 
 > One-line description of your project
 
-## Team
-
-| Name | Role | GitHub |
-|------|------|--------|
-| Name | Role | [@handle](https://github.com/handle) |
-| Name | Role | [@handle](https://github.com/handle) |
-| Name | Role | [@handle](https://github.com/handle) |
-
-## Pitch
-
-What problem are you solving and for whom? What's your solution?
-
-<!-- 2-3 sentences max. This is your elevator pitch. -->
-
-## Demo
-
-| Type | Link |
-|------|------|
-| Video | [YouTube](https://youtube.com/watch?v=xxx) |
-| Pitch Deck | [Miro](https://miro.com/app/board/xxx) |
-
-## Sponsor Technologies
-
-Which sponsor tools did you use and how?
-
-<!-- Check the boxes for tools you used and briefly describe the integration -->
-
-- [ ] **Cursor** —
-- [ ] **v0** —
-- [ ] **OpenAI** —
-- [ ] **Google Gemini** —
-- [ ] **Google Nano Banana** —
-- [ ] **Google Antigravity** —
-- [ ] **MiniMax** —
-- [ ] **Hume AI** —
-- [ ] **ElevenLabs** —
-- [ ] **Runway** —
-- [ ] **n8n** —
-- [ ] **Manus** —
-- [ ] **LangChain** —
-- [ ] **Miro** —
-
 ## Tech Stack
 
 What technologies power your project?
@@ -69,7 +27,7 @@ What technologies power your project?
 
 ## How to Run
 
-Step-by-step instructions to run the project locally.
+Step-by-step instructions to run the project locally, including everything that needs to be set up.
 
 ```bash
 # Clone the repo
@@ -86,13 +44,6 @@ cp .env.example .env
 # Run the development server
 npm run dev
 ```
-
-### Environment Variables
-
-| Variable | Description |
-|----------|-------------|
-| `OPENAI_API_KEY` | Your OpenAI API key |
-| `DATABASE_URL` | Database connection string |
 
 ## Details
 
